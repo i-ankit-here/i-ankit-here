@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 ANKIT MEENA
 Student(B. Tech CSE-27) at Dr B R Ambedkar National Institute Of Technology, Jalandhar
 
 
