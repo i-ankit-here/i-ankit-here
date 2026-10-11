@@ -13,11 +13,14 @@
   <a href="https://linkedin.com/in/" target="_blank">
     <img src="assets/badges/linkedin.svg" alt="LinkedIn" />
   </a>
-  <a href="https://i-ankit-here.github.io/" target="_blank">
+  <a href="https://ankitmeena.me" target="_blank">
     <img src="assets/badges/portfolio.svg" alt="Portfolio" />
   </a>
-  <a href="https://leetcode.com/" target="_blank">
+  <a href="https://leetcode.com/u/i-ankit-here" target="_blank">
     <img src="assets/badges/leetcode.svg" alt="LeetCode" />
+  </a>
+  <a href="https://codeforces.com/profile/i-ankit-here" target="_blank">
+    <img src="assets/badges/codeforces.svg" alt="Codeforces" />
   </a>
   <img src="https://profileviews.blueorbitdevs.workers.dev/?username=i-ankit-here&style=for-the-badge&color=00f2fe" alt="Profile Views" />
 </div>
@@ -33,7 +36,9 @@
 - **Engineering Focus:** Writing clean, scalable code in C++, architecting backend services, and solving complex algorithmic challenges.
 - **AI Integration:** Leveraging frontier LLMs (**Gemini, Claude, GPT**) for rapid system prototyping, code synthesis, and intelligent RAG workflows.
 - **Core Toolkit:** C++, Python, JavaScript, React, Node.js, MongoDB, alongside modern IDE environments (**VS Code** & **Antigravity**).
-- **Ask Me About:** C++ optimization, DSA strategies, full-stack application structure, and LLM orchestration.
+- **Competitive Programming:** Active problem solver on [LeetCode](https://leetcode.com/u/i-ankit-here) & [Codeforces](https://codeforces.com/profile/i-ankit-here).
+- **Portfolio & Projects:** [ankitmeena.me](https://ankitmeena.me)
+- **Direct Contact:** [closetooankit@gmail.com](mailto:closetooankit@gmail.com)
 
 ---
 
