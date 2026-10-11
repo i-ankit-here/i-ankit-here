@@ -19,7 +19,7 @@
   <a href="https://leetcode.com/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=i-ankit-here&style=for-the-badge&color=00f2fe&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://profileviews.blueorbitdevs.workers.dev/?username=i-ankit-here&style=for-the-badge&color=00f2fe" alt="Profile Views" />
 </div>
 
 <br/>
@@ -91,8 +91,8 @@
     <td width="50%" valign="top">
       <h4 align="center">🛡️ InsureRAG</h4>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-AI%20%2F%20RAG-3776AB?style=flat-square&logo=python" alt="Python RAG" />
-        <img src="https://img.shields.io/badge/Status-Active-00f2fe?style=flat-square" alt="Status" />
+        <img src="https://img.shields.io/badge/Python-AI_--_RAG-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python RAG" />
+        <img src="https://img.shields.io/badge/Status-Active-00C7B7?style=flat-square" alt="Status" />
       </p>
       <p>Intelligent Retrieval-Augmented Generation (RAG) system engineered for high-accuracy insurance knowledge extraction, querying, and claims understanding.</p>
       <p align="center">
@@ -102,8 +102,8 @@
     <td width="50%" valign="top">
       <h4 align="center">✅ IHaveToDo</h4>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-Web-61DAFB?style=flat-square&logo=react" alt="React" />
-        <img src="https://img.shields.io/badge/Deployed-Vercel-black?style=flat-square&logo=vercel" alt="Vercel" />
+        <img src="https://img.shields.io/badge/React-Web_App-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Deployed-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
       </p>
       <p>Clean, modern, and reactive task management application built for personal productivity and seamless task tracking.</p>
       <p align="center">
@@ -116,8 +116,8 @@
     <td width="50%" valign="top">
       <h4 align="center">📅 AMS with TimeTable</h4>
       <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-Automation-F7DF1E?style=flat-square&logo=javascript" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Domain-Education-orange?style=flat-square" alt="Domain" />
+        <img src="https://img.shields.io/badge/JavaScript-Automation-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Domain-Education-FF9900?style=flat-square" alt="Domain" />
       </p>
       <p>Automated Attendance Management System paired with dynamic timetable scheduling to optimize academic schedules and attendance monitoring.</p>
       <p align="center">
@@ -127,8 +127,8 @@
     <td width="50%" valign="top">
       <h4 align="center">🌐 Conference Website</h4>
       <p align="center">
-        <img src="https://img.shields.io/badge/Web-Portal-2563EB?style=flat-square" alt="Web Portal" />
-        <img src="https://img.shields.io/badge/UI%2FUX-Responsive-8B5CF6?style=flat-square" alt="Responsive" />
+        <img src="https://img.shields.io/badge/Full_Stack-Conference_Portal-2563EB?style=flat-square" alt="Conference Portal" />
+        <img src="https://img.shields.io/badge/Frontend-Responsive-8B5CF6?style=flat-square" alt="Responsive" />
       </p>
       <p>Comprehensive conference portal supporting paper submissions, speaker lineups, schedule dissemination, and attendee registrations.</p>
       <p align="center">
