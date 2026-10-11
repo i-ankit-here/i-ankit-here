@@ -19,7 +19,7 @@
   <a href="https://leetcode.com/" target="_blank">
     <img src="assets/badges/leetcode.svg" alt="LeetCode" />
   </a>
-  <img src="assets/badges/views.svg" alt="Profile Views" />
+  <img src="https://profileviews.blueorbitdevs.workers.dev/?username=i-ankit-here&style=for-the-badge&color=00f2fe" alt="Profile Views" />
 </div>
 
 <br/>
