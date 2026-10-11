@@ -5,30 +5,6 @@
 
 <br/>
 
-<!-- ==================== MAIN CYBER HUD DASHBOARD ==================== -->
-<table width="100%" border="0" cellspacing="12" cellpadding="0" align="center">
-  <tr valign="top">
-    <!-- LEFT COLUMN: 3D ISOMETRIC CONTRIBUTION SNAKE GAME -->
-    <td width="48%" align="left">
-      <h3>🐍 GitHub Contribution Snake Game</h3>
-      <img src="assets/snake-game.svg" width="100%" alt="GitHub Contribution Snake Game" />
-    </td>
-
-    <!-- RIGHT COLUMN: TECH STACK & GITHUB STATS HUDS -->
-    <td width="52%" align="left">
-      <h3>💻 Tech Stack</h3>
-      <img src="assets/tech-stack.svg" width="100%" alt="Tech Stack" />
-      
-      <br/>
-      
-      <h3>📊 GitHub Stats</h3>
-      <img src="assets/stats-hud.svg" width="100%" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 <!-- ==================== CONNECT & QUICK LINKS ==================== -->
 <div align="center">
   <a href="mailto:closetooankit@gmail.com">
@@ -50,7 +26,65 @@
 
 ---
 
-### 🚀 Featured Projects
+## About Me
+
+> **Software Engineer** specializing in systems programming, data structures & algorithms, and AI-accelerated web architecture. Currently pursuing **B.Tech CSE ('27)** at **Dr. B. R. Ambedkar National Institute of Technology, Jalandhar**.
+
+- **Engineering Focus:** Writing clean, scalable code in C++, architecting backend services, and solving complex algorithmic challenges.
+- **AI Integration:** Leveraging frontier LLMs (**Gemini, Claude, GPT**) for rapid system prototyping, code synthesis, and intelligent RAG workflows.
+- **Core Toolkit:** C++, Python, JavaScript, React, Node.js, MongoDB, alongside modern IDE environments (**VS Code** & **Antigravity**).
+- **Ask Me About:** C++ optimization, DSA strategies, full-stack application structure, and LLM orchestration.
+
+---
+
+## Tech Stack
+<div align="center">
+  <img src="assets/tech-stack.svg" width="94%" alt="Tech Stack HUD" />
+</div>
+
+<br/>
+
+---
+
+## 🐍 GitHub Contribution Activity
+
+<div align="center">
+  <!-- Live Dynamic Contribution Snake (Powered by Platane/snk) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/i-ankit-here/i-ankit-here/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/i-ankit-here/i-ankit-here/output/github-contribution-grid-snake.svg">
+    <img alt="Live Contribution Snake Animation" src="https://raw.githubusercontent.com/i-ankit-here/i-ankit-here/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</div>
+
+<br/>
+
+---
+
+## 📊 GitHub Analytics & Activity
+
+<div align="center">
+  <img src="assets/stats-hud.svg" width="94%" alt="GitHub Stats HUD" />
+  
+  <br/><br/>
+
+  <table align="center" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=i-ankit-here&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" height="175" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com/?user=i-ankit-here&theme=tokyonight&hide_border=true&border_radius=10" height="175" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+---
+
+## 🚀 Featured Engineering Projects
 
 <table align="center" width="100%">
   <tr>
@@ -68,7 +102,7 @@
     <td width="50%" valign="top">
       <h4 align="center">✅ IHaveToDo</h4>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-Fullstack-61DAFB?style=flat-square&logo=react" alt="React" />
+        <img src="https://img.shields.io/badge/React-Web-61DAFB?style=flat-square&logo=react" alt="React" />
         <img src="https://img.shields.io/badge/Deployed-Vercel-black?style=flat-square&logo=vercel" alt="Vercel" />
       </p>
       <p>Clean, modern, and reactive task management application built for personal productivity and seamless task tracking.</p>
@@ -93,7 +127,7 @@
     <td width="50%" valign="top">
       <h4 align="center">🌐 Conference Website</h4>
       <p align="center">
-        <img src="https://img.shields.io/badge/Full--Stack-Portal-2563EB?style=flat-square" alt="Full Stack" />
+        <img src="https://img.shields.io/badge/Web-Portal-2563EB?style=flat-square" alt="Web Portal" />
         <img src="https://img.shields.io/badge/UI%2FUX-Responsive-8B5CF6?style=flat-square" alt="Responsive" />
       </p>
       <p>Comprehensive conference portal supporting paper submissions, speaker lineups, schedule dissemination, and attendee registrations.</p>
